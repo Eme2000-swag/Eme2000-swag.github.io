@@ -5,5 +5,13 @@ body {
     background: linear-gradient(180deg, #506e9b 0%, #161b22 100%);
 
     color: white;
-    font-family: Georgia, serif;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+}
+h3{
 }
